@@ -85,15 +85,15 @@
   },
   {
     "Id": 8897,
-    "PosX": 33.2,
-    "PosY": 21.1,
+    "PosX": 33.4,
+    "PosY": 20.9,
     "WorldId": 1174,
     "ZoneId": 818,
     "InstanceId": 0,
-    "StartTime": 1684165565611,
-    "CurrentHp": 10226524,
+    "StartTime": 1684168178003,
+    "CurrentHp": 0,
     "MaxHp": 10226524,
-    "Players": 1
+    "Players": 65
   },
   {
     "Id": 10626,
@@ -1633,12 +1633,12 @@
   },
   {
     "Id": 8655,
-    "PosX": 22.4,
-    "PosY": 28.3,
+    "PosX": 22.3,
+    "PosY": 28.2,
     "WorldId": 33,
     "ZoneId": 816,
     "InstanceId": 0,
-    "StartTime": 1684166003220,
+    "StartTime": 1684168097255,
     "CurrentHp": 10226524,
     "MaxHp": 10226524,
     "Players": 1
@@ -5389,27 +5389,27 @@
   },
   {
     "Id": 8896,
-    "PosX": 36.8,
-    "PosY": 16.4,
+    "PosX": 36.7,
+    "PosY": 16.3,
     "WorldId": 1174,
     "ZoneId": 818,
     "InstanceId": 0,
-    "StartTime": 1684165579244,
-    "CurrentHp": 10226524,
+    "StartTime": 1684168130423,
+    "CurrentHp": 0,
     "MaxHp": 10226524,
-    "Players": 1
+    "Players": 64
   },
   {
     "Id": 2939,
-    "PosX": 26.5,
-    "PosY": 26.8,
+    "PosX": 28.0,
+    "PosY": 21.2,
     "WorldId": 97,
     "ZoneId": 154,
     "InstanceId": 0,
-    "StartTime": 1684076949753,
-    "CurrentHp": 0,
+    "StartTime": 1684168207664,
+    "CurrentHp": 234899,
     "MaxHp": 234899,
-    "Players": 1
+    "Players": 2
   },
   {
     "Id": 10626,
@@ -6721,25 +6721,25 @@
   },
   {
     "Id": 5998,
-    "PosX": 23.6,
-    "PosY": 10.5,
+    "PosX": 21.0,
+    "PosY": 8.5,
     "WorldId": 66,
     "ZoneId": 614,
     "InstanceId": 0,
-    "StartTime": 1684099613240,
+    "StartTime": 1684168229626,
     "CurrentHp": 3153913,
     "MaxHp": 3153913,
     "Players": 32
   },
   {
     "Id": 5999,
-    "PosX": 20.9,
-    "PosY": 8.9,
+    "PosX": 27.0,
+    "PosY": 9.9,
     "WorldId": 66,
     "ZoneId": 614,
     "InstanceId": 0,
-    "StartTime": 1684099623254,
-    "CurrentHp": 3153913,
+    "StartTime": 1684168317672,
+    "CurrentHp": 2967380,
     "MaxHp": 3153913,
     "Players": 8
   },
@@ -7405,12 +7405,12 @@
   },
   {
     "Id": 8655,
-    "PosX": 13.1,
-    "PosY": 34.1,
+    "PosX": 13.2,
+    "PosY": 34.0,
     "WorldId": 77,
     "ZoneId": 816,
     "InstanceId": 0,
-    "StartTime": 1684154512865,
+    "StartTime": 1684168149199,
     "CurrentHp": 10226524,
     "MaxHp": 10226524,
     "Players": 6
@@ -8221,15 +8221,15 @@
   },
   {
     "Id": 10630,
-    "PosX": 15.8,
-    "PosY": 28.3,
+    "PosX": 16.8,
+    "PosY": 24.3,
     "WorldId": 45,
     "ZoneId": 959,
     "InstanceId": 0,
-    "StartTime": 1684146072839,
-    "CurrentHp": 6220026,
+    "StartTime": 1684168112471,
+    "CurrentHp": 0,
     "MaxHp": 11048472,
-    "Players": 58
+    "Players": 48
   },
   {
     "Id": 10631,
@@ -11437,15 +11437,15 @@
   },
   {
     "Id": 10631,
-    "PosX": 33.5,
-    "PosY": 13.7,
+    "PosX": 18.3,
+    "PosY": 23.7,
     "WorldId": 45,
     "ZoneId": 961,
     "InstanceId": 0,
-    "StartTime": 1684146222840,
-    "CurrentHp": 2203148,
+    "StartTime": 1684168302047,
+    "CurrentHp": 0,
     "MaxHp": 11048472,
-    "Players": 60
+    "Players": 48
   },
   {
     "Id": 2946,
@@ -11473,12 +11473,12 @@
   },
   {
     "Id": 10634,
-    "PosX": 15.5,
+    "PosX": 15.6,
     "PosY": 25.5,
     "WorldId": 79,
     "ZoneId": 960,
     "InstanceId": 0,
-    "StartTime": 1684164922827,
+    "StartTime": 1684168183624,
     "CurrentHp": 11048472,
     "MaxHp": 11048472,
     "Players": 3
@@ -15277,15 +15277,15 @@
   },
   {
     "Id": 10627,
-    "PosX": 15.4,
-    "PosY": 19.0,
+    "PosX": 32.2,
+    "PosY": 32.0,
     "WorldId": 45,
     "ZoneId": 958,
     "InstanceId": 0,
-    "StartTime": 1684123087586,
+    "StartTime": 1684168026453,
     "CurrentHp": 0,
     "MaxHp": 11048472,
-    "Players": 44
+    "Players": 47
   },
   {
     "Id": 10626,
@@ -17425,12 +17425,12 @@
   },
   {
     "Id": 10634,
-    "PosX": 21.0,
-    "PosY": 33.9,
+    "PosX": 20.9,
+    "PosY": 34.0,
     "WorldId": 53,
     "ZoneId": 960,
     "InstanceId": 0,
-    "StartTime": 1684167955264,
+    "StartTime": 1684168285270,
     "CurrentHp": 11048472,
     "MaxHp": 11048472,
     "Players": 2
@@ -18481,12 +18481,12 @@
   },
   {
     "Id": 10623,
-    "PosX": 9.6,
+    "PosX": 9.7,
     "PosY": 19.1,
     "WorldId": 99,
     "ZoneId": 956,
     "InstanceId": 0,
-    "StartTime": 1684166146852,
+    "StartTime": 1684168278462,
     "CurrentHp": 11048472,
     "MaxHp": 11048472,
     "Players": 3
@@ -19429,15 +19429,15 @@
   },
   {
     "Id": 10629,
-    "PosX": 20.7,
-    "PosY": 33.9,
+    "PosX": 17.6,
+    "PosY": 21.4,
     "WorldId": 45,
     "ZoneId": 959,
     "InstanceId": 0,
-    "StartTime": 1684138960763,
-    "CurrentHp": 11048472,
+    "StartTime": 1684168165618,
+    "CurrentHp": 0,
     "MaxHp": 11048472,
-    "Players": 1
+    "Players": 48
   },
   {
     "Id": 10629,
@@ -19741,15 +19741,15 @@
   },
   {
     "Id": 10632,
-    "PosX": 32.0,
-    "PosY": 18.1,
+    "PosX": 12.2,
+    "PosY": 31.5,
     "WorldId": 45,
     "ZoneId": 961,
     "InstanceId": 0,
-    "StartTime": 1684123439989,
+    "StartTime": 1684168233227,
     "CurrentHp": 0,
     "MaxHp": 11048472,
-    "Players": 45
+    "Players": 48
   },
   {
     "Id": 10626,
@@ -24349,15 +24349,15 @@
   },
   {
     "Id": 2938,
-    "PosX": 27.2,
-    "PosY": 17.2,
+    "PosX": 15.8,
+    "PosY": 31.5,
     "WorldId": 97,
     "ZoneId": 153,
     "InstanceId": 0,
-    "StartTime": 1684117009246,
-    "CurrentHp": 0,
+    "StartTime": 1684168322426,
+    "CurrentHp": 244401,
     "MaxHp": 244401,
-    "Players": 4
+    "Players": 1
   },
   {
     "Id": 8907,
@@ -26293,15 +26293,15 @@
   },
   {
     "Id": 10632,
-    "PosX": 21.3,
-    "PosY": 5.6,
+    "PosX": 18.1,
+    "PosY": 24.1,
     "WorldId": 64,
     "ZoneId": 961,
     "InstanceId": 0,
-    "StartTime": 1684132725995,
-    "CurrentHp": 0,
+    "StartTime": 1684168236045,
+    "CurrentHp": 11048472,
     "MaxHp": 11048472,
-    "Players": 59
+    "Players": 1
   },
   {
     "Id": 10630,
@@ -27949,15 +27949,15 @@
   },
   {
     "Id": 10627,
-    "PosX": 11.3,
-    "PosY": 16.6,
+    "PosX": 27.0,
+    "PosY": 33.5,
     "WorldId": 64,
     "ZoneId": 958,
     "InstanceId": 0,
-    "StartTime": 1684133137170,
-    "CurrentHp": 0,
+    "StartTime": 1684168066468,
+    "CurrentHp": 11048472,
     "MaxHp": 11048472,
-    "Players": 60
+    "Players": 1
   },
   {
     "Id": 10623,
@@ -30961,15 +30961,15 @@
   },
   {
     "Id": 8911,
-    "PosX": 11.4,
-    "PosY": 17.8,
+    "PosX": 22.3,
+    "PosY": 16.9,
     "WorldId": 42,
     "ZoneId": 814,
     "InstanceId": 0,
-    "StartTime": 1684081205634,
-    "CurrentHp": 0,
+    "StartTime": 1684168067000,
+    "CurrentHp": 10226524,
     "MaxHp": 10226524,
-    "Players": 44
+    "Players": 1
   },
   {
     "Id": 8654,
@@ -31201,12 +31201,12 @@
   },
   {
     "Id": 8896,
-    "PosX": 27.9,
+    "PosX": 28.0,
     "PosY": 7.8,
     "WorldId": 54,
     "ZoneId": 818,
     "InstanceId": 0,
-    "StartTime": 1684161075297,
+    "StartTime": 1684168004147,
     "CurrentHp": 10226524,
     "MaxHp": 10226524,
     "Players": 1
@@ -31477,12 +31477,12 @@
   },
   {
     "Id": 8901,
-    "PosX": 30.3,
+    "PosX": 30.2,
     "PosY": 12.9,
     "WorldId": 75,
     "ZoneId": 815,
     "InstanceId": 0,
-    "StartTime": 1684167574824,
+    "StartTime": 1684168301405,
     "CurrentHp": 10226524,
     "MaxHp": 10226524,
     "Players": 8
@@ -32305,15 +32305,15 @@
   },
   {
     "Id": 8901,
-    "PosX": 30.3,
-    "PosY": 13.4,
+    "PosX": 30.2,
+    "PosY": 34.7,
     "WorldId": 42,
     "ZoneId": 815,
     "InstanceId": 0,
-    "StartTime": 1684106834806,
-    "CurrentHp": 0,
+    "StartTime": 1684168158161,
+    "CurrentHp": 10226524,
     "MaxHp": 10226524,
-    "Players": 6
+    "Players": 2
   },
   {
     "Id": 4364,
@@ -32329,15 +32329,15 @@
   },
   {
     "Id": 8897,
-    "PosX": 10.5,
-    "PosY": 4.5,
+    "PosX": 35.6,
+    "PosY": 11.3,
     "WorldId": 73,
     "ZoneId": 818,
     "InstanceId": 0,
-    "StartTime": 1684128079200,
+    "StartTime": 1684168017604,
     "CurrentHp": 0,
     "MaxHp": 10226524,
-    "Players": 44
+    "Players": 43
   },
   {
     "Id": 8901,
@@ -32473,15 +32473,15 @@
   },
   {
     "Id": 8896,
-    "PosX": 20.8,
-    "PosY": 6.9,
+    "PosX": 8.1,
+    "PosY": 8.4,
     "WorldId": 73,
     "ZoneId": 818,
     "InstanceId": 0,
-    "StartTime": 1684127994833,
+    "StartTime": 1684168139250,
     "CurrentHp": 0,
     "MaxHp": 10226524,
-    "Players": 45
+    "Players": 44
   },
   {
     "Id": 8902,
@@ -32617,15 +32617,15 @@
   },
   {
     "Id": 8892,
-    "PosX": 9.3,
-    "PosY": 23.7,
+    "PosX": 8.4,
+    "PosY": 34.1,
     "WorldId": 42,
     "ZoneId": 817,
     "InstanceId": 0,
-    "StartTime": 1684081739580,
-    "CurrentHp": 0,
+    "StartTime": 1684168316852,
+    "CurrentHp": 5591902,
     "MaxHp": 10226524,
-    "Players": 44
+    "Players": 3
   },
   {
     "Id": 8901,
@@ -34285,12 +34285,12 @@
   },
   {
     "Id": 8912,
-    "PosX": 14.3,
+    "PosX": 14.4,
     "PosY": 15.4,
     "WorldId": 85,
     "ZoneId": 814,
     "InstanceId": 0,
-    "StartTime": 1684165478811,
+    "StartTime": 1684168193219,
     "CurrentHp": 10226524,
     "MaxHp": 10226524,
     "Players": 1
@@ -34801,15 +34801,15 @@
   },
   {
     "Id": 8654,
-    "PosX": 8.9,
-    "PosY": 30.5,
+    "PosX": 8.8,
+    "PosY": 30.4,
     "WorldId": 42,
     "ZoneId": 816,
     "InstanceId": 0,
-    "StartTime": 1684152808844,
+    "StartTime": 1684168175612,
     "CurrentHp": 10226524,
     "MaxHp": 10226524,
-    "Players": 3
+    "Players": 4
   },
   {
     "Id": 8654,
@@ -36145,15 +36145,15 @@
   },
   {
     "Id": 8912,
-    "PosX": 24.0,
-    "PosY": 10.9,
+    "PosX": 11.1,
+    "PosY": 18.1,
     "WorldId": 42,
     "ZoneId": 814,
     "InstanceId": 0,
-    "StartTime": 1684081282466,
-    "CurrentHp": 0,
+    "StartTime": 1684167996424,
+    "CurrentHp": 10226524,
     "MaxHp": 10226524,
-    "Players": 43
+    "Players": 1
   },
   {
     "Id": 2939,
@@ -36925,12 +36925,12 @@
   },
   {
     "Id": 5995,
-    "PosX": 18.8,
-    "PosY": 31.4,
+    "PosX": 24.6,
+    "PosY": 32.3,
     "WorldId": 85,
     "ZoneId": 621,
     "InstanceId": 0,
-    "StartTime": 1683924650380,
+    "StartTime": 1684168168820,
     "CurrentHp": 3153913,
     "MaxHp": 3153913,
     "Players": 41
@@ -37057,12 +37057,12 @@
   },
   {
     "Id": 8891,
-    "PosX": 9.2,
+    "PosX": 9.1,
     "PosY": 18.4,
     "WorldId": 42,
     "ZoneId": 817,
     "InstanceId": 0,
-    "StartTime": 1684161382444,
+    "StartTime": 1684168224430,
     "CurrentHp": 10226524,
     "MaxHp": 10226524,
     "Players": 1
@@ -37214,11 +37214,11 @@
   {
     "Id": 8902,
     "PosX": 28.0,
-    "PosY": 20.2,
+    "PosY": 20.1,
     "WorldId": 42,
     "ZoneId": 815,
     "InstanceId": 0,
-    "StartTime": 1684151636859,
+    "StartTime": 1684168104442,
     "CurrentHp": 10226524,
     "MaxHp": 10226524,
     "Players": 2
@@ -37345,12 +37345,12 @@
   },
   {
     "Id": 8655,
-    "PosX": 7.6,
-    "PosY": 26.7,
+    "PosX": 7.8,
+    "PosY": 26.6,
     "WorldId": 42,
     "ZoneId": 816,
     "InstanceId": 0,
-    "StartTime": 1684152825612,
+    "StartTime": 1684168183236,
     "CurrentHp": 10226524,
     "MaxHp": 10226524,
     "Players": 2
@@ -39049,15 +39049,15 @@
   },
   {
     "Id": 2946,
-    "PosX": 18.8,
-    "PosY": 34.9,
+    "PosX": 19.6,
+    "PosY": 33.9,
     "WorldId": 93,
     "ZoneId": 135,
     "InstanceId": 0,
-    "StartTime": 1684119691669,
-    "CurrentHp": 0,
+    "StartTime": 1684168274865,
+    "CurrentHp": 261022,
     "MaxHp": 261022,
-    "Players": 3
+    "Players": 2
   },
   {
     "Id": 10623,
@@ -39133,15 +39133,15 @@
   },
   {
     "Id": 2938,
-    "PosX": 22.1,
-    "PosY": 22.1,
+    "PosX": 23.8,
+    "PosY": 17.7,
     "WorldId": 39,
     "ZoneId": 153,
     "InstanceId": 0,
-    "StartTime": 1684151154422,
-    "CurrentHp": 0,
+    "StartTime": 1684168114438,
+    "CurrentHp": 244401,
     "MaxHp": 244401,
-    "Players": 1
+    "Players": 9
   },
   {
     "Id": 4367,
@@ -40585,15 +40585,15 @@
   },
   {
     "Id": 5991,
-    "PosX": 11.7,
+    "PosX": 11.6,
     "PosY": 17.1,
     "WorldId": 1174,
     "ZoneId": 612,
     "InstanceId": 0,
-    "StartTime": 1684165670879,
-    "CurrentHp": 3153913,
+    "StartTime": 1684168314043,
+    "CurrentHp": 0,
     "MaxHp": 3153913,
-    "Players": 1
+    "Players": 45
   },
   {
     "Id": 5996,
@@ -41126,11 +41126,11 @@
   {
     "Id": 4370,
     "PosX": 8.4,
-    "PosY": 15.7,
+    "PosY": 15.8,
     "WorldId": 78,
     "ZoneId": 401,
     "InstanceId": 0,
-    "StartTime": 1684167267581,
+    "StartTime": 1684168235621,
     "CurrentHp": 638512,
     "MaxHp": 638512,
     "Players": 5
@@ -42097,24 +42097,24 @@
   },
   {
     "Id": 2938,
-    "PosX": 16.4,
+    "PosX": 16.2,
     "PosY": 17.9,
     "WorldId": 54,
     "ZoneId": 153,
     "InstanceId": 0,
-    "StartTime": 1684167950434,
-    "CurrentHp": 244401,
+    "StartTime": 1684168192017,
+    "CurrentHp": 0,
     "MaxHp": 244401,
     "Players": 6
   },
   {
     "Id": 8896,
-    "PosX": 35.2,
-    "PosY": 10.9,
+    "PosX": 30.3,
+    "PosY": 10.6,
     "WorldId": 78,
     "ZoneId": 818,
     "InstanceId": 0,
-    "StartTime": 1684118905700,
+    "StartTime": 1684168186817,
     "CurrentHp": 10226524,
     "MaxHp": 10226524,
     "Players": 3
@@ -43669,12 +43669,12 @@
   },
   {
     "Id": 5999,
-    "PosX": 26.8,
+    "PosX": 26.7,
     "PosY": 10.0,
     "WorldId": 55,
     "ZoneId": 614,
     "InstanceId": 0,
-    "StartTime": 1684167960820,
+    "StartTime": 1684168310422,
     "CurrentHp": 3153913,
     "MaxHp": 3153913,
     "Players": 8
@@ -44994,7 +44994,7 @@
     "WorldId": 75,
     "ZoneId": 813,
     "InstanceId": 0,
-    "StartTime": 1684164038038,
+    "StartTime": 1684168029240,
     "CurrentHp": 10226524,
     "MaxHp": 10226524,
     "Players": 3
@@ -45181,15 +45181,15 @@
   },
   {
     "Id": 4365,
-    "PosX": 25.9,
-    "PosY": 7.0,
+    "PosX": 32.9,
+    "PosY": 7.8,
     "WorldId": 83,
     "ZoneId": 398,
     "InstanceId": 0,
-    "StartTime": 1684052387607,
-    "CurrentHp": 0,
+    "StartTime": 1684168161992,
+    "CurrentHp": 591141,
     "MaxHp": 591141,
-    "Players": 25
+    "Players": 4
   },
   {
     "Id": 8655,
@@ -45210,19 +45210,19 @@
     "WorldId": 42,
     "ZoneId": 139,
     "InstanceId": 0,
-    "StartTime": 1684167326818,
+    "StartTime": 1684168114039,
     "CurrentHp": 249139,
     "MaxHp": 249139,
     "Players": 3
   },
   {
     "Id": 8911,
-    "PosX": 30.8,
+    "PosX": 30.9,
     "PosY": 19.4,
     "WorldId": 75,
     "ZoneId": 814,
     "InstanceId": 0,
-    "StartTime": 1684165479201,
+    "StartTime": 1684168282439,
     "CurrentHp": 10226524,
     "MaxHp": 10226524,
     "Players": 7
@@ -45325,12 +45325,12 @@
   },
   {
     "Id": 8912,
-    "PosX": 16.4,
-    "PosY": 6.6,
+    "PosX": 16.5,
+    "PosY": 6.7,
     "WorldId": 75,
     "ZoneId": 814,
     "InstanceId": 0,
-    "StartTime": 1684125802024,
+    "StartTime": 1684168214382,
     "CurrentHp": 10226524,
     "MaxHp": 10226524,
     "Players": 3
@@ -45374,12 +45374,12 @@
   {
     "Id": 8902,
     "PosX": 28.1,
-    "PosY": 19.8,
+    "PosY": 19.9,
     "WorldId": 75,
     "ZoneId": 815,
     "InstanceId": 0,
-    "StartTime": 1684167190844,
-    "CurrentHp": 10226124,
+    "StartTime": 1684168322034,
+    "CurrentHp": 10226524,
     "MaxHp": 10226524,
     "Players": 8
   },
@@ -47641,12 +47641,12 @@
   },
   {
     "Id": 5998,
-    "PosX": 21.0,
+    "PosX": 20.9,
     "PosY": 8.8,
     "WorldId": 40,
     "ZoneId": 614,
     "InstanceId": 0,
-    "StartTime": 1684167957210,
+    "StartTime": 1684168123239,
     "CurrentHp": 3153913,
     "MaxHp": 3153913,
     "Players": 5
@@ -47677,15 +47677,15 @@
   },
   {
     "Id": 10623,
-    "PosX": 11.5,
-    "PosY": 34.7,
+    "PosX": 11.4,
+    "PosY": 34.6,
     "WorldId": 82,
     "ZoneId": 956,
     "InstanceId": 0,
-    "StartTime": 1684167948832,
+    "StartTime": 1684168323213,
     "CurrentHp": 11048472,
     "MaxHp": 11048472,
-    "Players": 7
+    "Players": 8
   },
   {
     "Id": 4363,
@@ -49321,15 +49321,15 @@
   },
   {
     "Id": 8907,
-    "PosX": 34.9,
+    "PosX": 35.0,
     "PosY": 15.3,
     "WorldId": 35,
     "ZoneId": 813,
     "InstanceId": 0,
-    "StartTime": 1684167863267,
+    "StartTime": 1684167975257,
     "CurrentHp": 10226524,
     "MaxHp": 10226524,
-    "Players": 2
+    "Players": 3
   },
   {
     "Id": 2949,
@@ -51001,12 +51001,12 @@
   },
   {
     "Id": 4363,
-    "PosX": 29.5,
+    "PosX": 29.7,
     "PosY": 26.3,
     "WorldId": 39,
     "ZoneId": 397,
     "InstanceId": 0,
-    "StartTime": 1684166051592,
+    "StartTime": 1684168131638,
     "CurrentHp": 639177,
     "MaxHp": 639177,
     "Players": 1
@@ -52177,15 +52177,15 @@
   },
   {
     "Id": 2949,
-    "PosX": 27.8,
-    "PosY": 21.0,
+    "PosX": 32.7,
+    "PosY": 23.6,
     "WorldId": 49,
     "ZoneId": 139,
     "InstanceId": 0,
-    "StartTime": 1683951082056,
+    "StartTime": 1684168150447,
     "CurrentHp": 0,
     "MaxHp": 249139,
-    "Players": 3
+    "Players": 5
   },
   {
     "Id": 4365,
@@ -55669,13 +55669,13 @@
   },
   {
     "Id": 2939,
-    "PosX": 26.4,
-    "PosY": 26.7,
+    "PosX": 17.6,
+    "PosY": 26.4,
     "WorldId": 1180,
     "ZoneId": 154,
     "InstanceId": 0,
-    "StartTime": 1684070516423,
-    "CurrentHp": 234899,
+    "StartTime": 1684168249386,
+    "CurrentHp": 0,
     "MaxHp": 234899,
     "Players": 2
   },
@@ -57386,11 +57386,11 @@
   {
     "Id": 5990,
     "PosX": 16.5,
-    "PosY": 23.6,
+    "PosY": 23.7,
     "WorldId": 59,
     "ZoneId": 612,
     "InstanceId": 0,
-    "StartTime": 1684167567248,
+    "StartTime": 1684168102909,
     "CurrentHp": 3153913,
     "MaxHp": 3153913,
     "Players": 7
@@ -57637,12 +57637,12 @@
   },
   {
     "Id": 5999,
-    "PosX": 28.4,
-    "PosY": 11.0,
+    "PosX": 28.3,
+    "PosY": 11.1,
     "WorldId": 75,
     "ZoneId": 614,
     "InstanceId": 0,
-    "StartTime": 1684167573627,
+    "StartTime": 1684167987583,
     "CurrentHp": 3153913,
     "MaxHp": 3153913,
     "Players": 38
@@ -59377,15 +59377,15 @@
   },
   {
     "Id": 5992,
-    "PosX": 10.6,
-    "PosY": 7.6,
+    "PosX": 16.4,
+    "PosY": 22.4,
     "WorldId": 1106,
     "ZoneId": 620,
     "InstanceId": 0,
-    "StartTime": 1684112754770,
-    "CurrentHp": 0,
+    "StartTime": 1684168273628,
+    "CurrentHp": 3153913,
     "MaxHp": 3153913,
-    "Players": 11
+    "Players": 8
   },
   {
     "Id": 2946,
@@ -61405,15 +61405,15 @@
   },
   {
     "Id": 8892,
-    "PosX": 25.6,
-    "PosY": 23.6,
+    "PosX": 25.5,
+    "PosY": 23.5,
     "WorldId": 1174,
     "ZoneId": 817,
     "InstanceId": 0,
-    "StartTime": 1684165426449,
-    "CurrentHp": 10226524,
+    "StartTime": 1684168058449,
+    "CurrentHp": 0,
     "MaxHp": 10226524,
-    "Players": 1
+    "Players": 66
   },
   {
     "Id": 8896,
@@ -62041,15 +62041,15 @@
   },
   {
     "Id": 8891,
-    "PosX": 25.8,
+    "PosX": 26.1,
     "PosY": 14.5,
     "WorldId": 1174,
     "ZoneId": 817,
     "InstanceId": 0,
-    "StartTime": 1684167958027,
-    "CurrentHp": 10226524,
+    "StartTime": 1684168005236,
+    "CurrentHp": 0,
     "MaxHp": 10226524,
-    "Players": 65
+    "Players": 67
   },
   {
     "Id": 4367,
@@ -64357,12 +64357,12 @@
   },
   {
     "Id": 8892,
-    "PosX": 9.3,
+    "PosX": 9.2,
     "PosY": 18.4,
     "WorldId": 59,
     "ZoneId": 817,
     "InstanceId": 0,
-    "StartTime": 1684167956855,
+    "StartTime": 1684168297643,
     "CurrentHp": 10226524,
     "MaxHp": 10226524,
     "Players": 1
@@ -64830,7 +64830,7 @@
     "WorldId": 65,
     "ZoneId": 145,
     "InstanceId": 0,
-    "StartTime": 1684167945224,
+    "StartTime": 1684168312038,
     "CurrentHp": 256259,
     "MaxHp": 256259,
     "Players": 5
@@ -65929,12 +65929,12 @@
   },
   {
     "Id": 6001,
-    "PosX": 9.2,
-    "PosY": 25.4,
+    "PosX": 34.1,
+    "PosY": 14.6,
     "WorldId": 1169,
     "ZoneId": 622,
     "InstanceId": 0,
-    "StartTime": 1683739095920,
+    "StartTime": 1684168322832,
     "CurrentHp": 3153913,
     "MaxHp": 3153913,
     "Players": 10
@@ -66626,11 +66626,11 @@
   {
     "Id": 2936,
     "PosX": 15.3,
-    "PosY": 23.4,
+    "PosY": 23.5,
     "WorldId": 1186,
     "ZoneId": 148,
     "InstanceId": 0,
-    "StartTime": 1684167962823,
+    "StartTime": 1684168202856,
     "CurrentHp": 249139,
     "MaxHp": 249139,
     "Players": 2
@@ -81877,15 +81877,15 @@
   },
   {
     "Id": 2938,
-    "PosX": 18.4,
-    "PosY": 28.2,
+    "PosX": 18.2,
+    "PosY": 17.9,
     "WorldId": 1169,
     "ZoneId": 153,
     "InstanceId": 0,
-    "StartTime": 1684090356856,
-    "CurrentHp": 0,
+    "StartTime": 1684168135278,
+    "CurrentHp": 244401,
     "MaxHp": 244401,
-    "Players": 2
+    "Players": 1
   },
   {
     "Id": 4368,
@@ -87241,15 +87241,15 @@
   },
   {
     "Id": 5996,
-    "PosX": 30.7,
-    "PosY": 38.2,
+    "PosX": 30.6,
+    "PosY": 38.5,
     "WorldId": 47,
     "ZoneId": 613,
     "InstanceId": 0,
-    "StartTime": 1683651753297,
+    "StartTime": 1684168202457,
     "CurrentHp": 3153913,
     "MaxHp": 3153913,
-    "Players": 1
+    "Players": 2
   },
   {
     "Id": 5997,
@@ -91069,12 +91069,12 @@
   },
   {
     "Id": 2952,
-    "PosX": 32.0,
+    "PosX": 31.9,
     "PosY": 13.9,
     "WorldId": 95,
     "ZoneId": 156,
     "InstanceId": 0,
-    "StartTime": 1684167959665,
+    "StartTime": 1684167990039,
     "CurrentHp": 244401,
     "MaxHp": 244401,
     "Players": 4
@@ -93661,15 +93661,15 @@
   },
   {
     "Id": 2945,
-    "PosX": 18.0,
+    "PosX": 17.9,
     "PosY": 17.7,
     "WorldId": 401,
     "ZoneId": 134,
     "InstanceId": 0,
-    "StartTime": 1684167787641,
+    "StartTime": 1684168323625,
     "CurrentHp": 265760,
     "MaxHp": 265760,
-    "Players": 2
+    "Players": 4
   },
   {
     "Id": 2942,
@@ -94094,11 +94094,11 @@
   {
     "Id": 4369,
     "PosX": 5.8,
-    "PosY": 34.7,
+    "PosY": 34.8,
     "WorldId": 403,
     "ZoneId": 400,
     "InstanceId": 0,
-    "StartTime": 1684167950461,
+    "StartTime": 1684168318452,
     "CurrentHp": 604755,
     "MaxHp": 604755,
     "Players": 4
@@ -95114,14 +95114,14 @@
   {
     "Id": 8897,
     "PosX": 28.2,
-    "PosY": 7.8,
+    "PosY": 7.7,
     "WorldId": 402,
     "ZoneId": 818,
     "InstanceId": 0,
-    "StartTime": 1684166296982,
-    "CurrentHp": 10226524,
+    "StartTime": 1684168037218,
+    "CurrentHp": 0,
     "MaxHp": 10226524,
-    "Players": 2
+    "Players": 27
   },
   {
     "Id": 8896,
@@ -95281,12 +95281,12 @@
   },
   {
     "Id": 6001,
-    "PosX": 9.2,
+    "PosX": 9.3,
     "PosY": 21.9,
     "WorldId": 403,
     "ZoneId": 622,
     "InstanceId": 0,
-    "StartTime": 1684090386017,
+    "StartTime": 1684168001188,
     "CurrentHp": 3153913,
     "MaxHp": 3153913,
     "Players": 2
@@ -96097,15 +96097,15 @@
   },
   {
     "Id": 10631,
-    "PosX": 6.0,
-    "PosY": 28.4,
+    "PosX": 17.2,
+    "PosY": 29.7,
     "WorldId": 400,
     "ZoneId": 961,
     "InstanceId": 0,
-    "StartTime": 1684076634842,
+    "StartTime": 1684168152400,
     "CurrentHp": 11048472,
     "MaxHp": 11048472,
-    "Players": 5
+    "Players": 8
   },
   {
     "Id": 10633,
@@ -96253,13 +96253,13 @@
   },
   {
     "Id": 8892,
-    "PosX": 33.1,
-    "PosY": 22.3,
+    "PosX": 32.8,
+    "PosY": 22.8,
     "WorldId": 400,
     "ZoneId": 817,
     "InstanceId": 0,
-    "StartTime": 1684167961206,
-    "CurrentHp": 10108863,
+    "StartTime": 1684168321668,
+    "CurrentHp": 7549142,
     "MaxHp": 10226524,
     "Players": 3
   },
@@ -103117,15 +103117,15 @@
   },
   {
     "Id": 2952,
-    "PosX": 31.8,
-    "PosY": 6.3,
+    "PosX": 26.8,
+    "PosY": 10.0,
     "WorldId": 1174,
     "ZoneId": 156,
     "InstanceId": 0,
-    "StartTime": 1684137553620,
+    "StartTime": 1684168076848,
     "CurrentHp": 0,
     "MaxHp": 244401,
-    "Players": 1
+    "Players": 2
   },
   {
     "Id": 2952,
@@ -110209,15 +110209,15 @@
   },
   {
     "Id": 10625,
-    "PosX": 26.1,
-    "PosY": 20.3,
+    "PosX": 32.3,
+    "PosY": 19.8,
     "WorldId": 400,
     "ZoneId": 957,
     "InstanceId": 0,
-    "StartTime": 1684107931644,
-    "CurrentHp": 11048472,
+    "StartTime": 1684168323238,
+    "CurrentHp": 7037901,
     "MaxHp": 11048472,
-    "Players": 3
+    "Players": 66
   },
   {
     "Id": 10634,
@@ -110233,15 +110233,15 @@
   },
   {
     "Id": 10626,
-    "PosX": 13.5,
-    "PosY": 11.7,
+    "PosX": 17.0,
+    "PosY": 15.8,
     "WorldId": 400,
     "ZoneId": 957,
     "InstanceId": 0,
-    "StartTime": 1684078456426,
-    "CurrentHp": 11048472,
+    "StartTime": 1684168271634,
+    "CurrentHp": 0,
     "MaxHp": 11048472,
-    "Players": 2
+    "Players": 68
   },
   {
     "Id": 10633,
@@ -111170,14 +111170,14 @@
   {
     "Id": 2939,
     "PosX": 25.4,
-    "PosY": 22.4,
+    "PosY": 22.1,
     "WorldId": 407,
     "ZoneId": 154,
     "InstanceId": 0,
-    "StartTime": 1684167958058,
-    "CurrentHp": 234899,
+    "StartTime": 1684168322058,
+    "CurrentHp": 224793,
     "MaxHp": 234899,
-    "Players": 1
+    "Players": 3
   },
   {
     "Id": 4371,
@@ -111613,15 +111613,15 @@
   },
   {
     "Id": 8891,
-    "PosX": 29.2,
+    "PosX": 29.1,
     "PosY": 25.2,
     "WorldId": 405,
     "ZoneId": 817,
     "InstanceId": 0,
-    "StartTime": 1684167963639,
-    "CurrentHp": 6075258,
+    "StartTime": 1684168030053,
+    "CurrentHp": 0,
     "MaxHp": 10226524,
-    "Players": 19
+    "Players": 20
   },
   {
     "Id": 2938,
@@ -111637,15 +111637,15 @@
   },
   {
     "Id": 8892,
-    "PosX": 14.6,
-    "PosY": 29.9,
+    "PosX": 15.0,
+    "PosY": 29.4,
     "WorldId": 405,
     "ZoneId": 817,
     "InstanceId": 0,
-    "StartTime": 1684143840080,
-    "CurrentHp": 10226524,
+    "StartTime": 1684168160390,
+    "CurrentHp": 0,
     "MaxHp": 10226524,
-    "Players": 1
+    "Players": 20
   },
   {
     "Id": 8896,
@@ -111661,15 +111661,15 @@
   },
   {
     "Id": 8897,
-    "PosX": 24.8,
-    "PosY": 12.2,
+    "PosX": 18.0,
+    "PosY": 13.0,
     "WorldId": 405,
     "ZoneId": 818,
     "InstanceId": 0,
-    "StartTime": 1684094010803,
+    "StartTime": 1684168314041,
     "CurrentHp": 0,
     "MaxHp": 10226524,
-    "Players": 30
+    "Players": 19
   },
   {
     "Id": 2950,

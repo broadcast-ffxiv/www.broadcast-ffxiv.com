@@ -109,7 +109,10 @@
         "Moogle",
         "Omega",
         "Ragnarok",
-        "Spriggan"
+        "Spriggan", 
+        "Sagittarius",
+        "Phantom"
+        
     ],
     "Light": [
         "Lich",
@@ -118,6 +121,8 @@
         "Shiva",
         "Twintania",
         "Zodiark"
+        "Alpha",
+        "Raiden"
     ],
     "Materia": [
         "Bismarck",
@@ -125,5 +130,11 @@
         "Sephirot",
         "Sophia",
         "Zurvan"
+    ]
+    "Dynamis": [
+        "Maduin",
+        "Seraph",
+        "Marilith",
+        "Halicarnassus"
     ]
 }

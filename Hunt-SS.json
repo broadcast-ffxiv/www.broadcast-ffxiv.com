@@ -22818,10 +22818,10 @@
     "WorldId": 1042,
     "ZoneId": 959,
     "InstanceId": 0,
-    "StartTime": 1710771312005,
-    "CurrentHp": 0,
+    "StartTime": 1711638547382,
+    "CurrentHp": 34029100,
     "MaxHp": 34029100,
-    "Players": 96
+    "Players": 99
   },
   {
     "Id": 10615,
@@ -32578,5 +32578,17 @@
     "CurrentHp": 0,
     "MaxHp": 31516238,
     "Players": 41
+  },
+  {
+    "Id": 8915,
+    "PosX": 24.0,
+    "PosY": 36.7,
+    "WorldId": 1186,
+    "ZoneId": 817,
+    "InstanceId": 2,
+    "StartTime": 1711638539498,
+    "CurrentHp": 31516238,
+    "MaxHp": 31516238,
+    "Players": 99
   }
 ]

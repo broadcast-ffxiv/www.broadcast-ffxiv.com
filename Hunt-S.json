@@ -22022,14 +22022,14 @@
   {
     "Id": 2955,
     "PosX": 27.3,
-    "PosY": 17.2,
+    "PosY": 17.1,
     "WorldId": 1166,
     "ZoneId": 153,
     "InstanceId": 0,
-    "StartTime": 1723142874022,
+    "StartTime": 1723143952857,
     "CurrentHp": 1653128,
     "MaxHp": 1653128,
-    "Players": 7
+    "Players": 22
   },
   {
     "Id": 2955,
@@ -22045,13 +22045,13 @@
   },
   {
     "Id": 2955,
-    "PosX": 18.5,
+    "PosX": 18.2,
     "PosY": 28.2,
     "WorldId": 1113,
     "ZoneId": 153,
     "InstanceId": 0,
-    "StartTime": 1723143592811,
-    "CurrentHp": 1653128,
+    "StartTime": 1723143668031,
+    "CurrentHp": 0,
     "MaxHp": 1653128,
     "Players": 23
   },
@@ -22850,11 +22850,11 @@
   {
     "Id": 4378,
     "PosX": 14.8,
-    "PosY": 7.3,
+    "PosY": 7.1,
     "WorldId": 1170,
     "ZoneId": 401,
     "InstanceId": 0,
-    "StartTime": 1723143583219,
+    "StartTime": 1723143953249,
     "CurrentHp": 2835953,
     "MaxHp": 2835953,
     "Players": 6
@@ -44053,15 +44053,15 @@
   },
   {
     "Id": 2955,
-    "PosX": 16.5,
-    "PosY": 20.9,
+    "PosX": 16.7,
+    "PosY": 21.0,
     "WorldId": 1121,
     "ZoneId": 153,
     "InstanceId": 0,
-    "StartTime": 1723143590020,
-    "CurrentHp": 1653128,
+    "StartTime": 1723143836019,
+    "CurrentHp": 0,
     "MaxHp": 1653128,
-    "Players": 4
+    "Players": 24
   },
   {
     "Id": 2957,
@@ -46141,15 +46141,15 @@
   },
   {
     "Id": 8895,
-    "PosX": 14.8,
-    "PosY": 10.6,
+    "PosX": 15.1,
+    "PosY": 10.5,
     "WorldId": 1169,
     "ZoneId": 818,
     "InstanceId": 0,
-    "StartTime": 1723143592017,
-    "CurrentHp": 27740146,
+    "StartTime": 1723143752423,
+    "CurrentHp": 0,
     "MaxHp": 27740146,
-    "Players": 84
+    "Players": 85
   },
   {
     "Id": 2955,
@@ -47521,15 +47521,15 @@
   },
   {
     "Id": 8910,
-    "PosX": 16.3,
-    "PosY": 6.9,
+    "PosX": 15.8,
+    "PosY": 7.0,
     "WorldId": 1169,
     "ZoneId": 814,
     "InstanceId": 0,
-    "StartTime": 1723143512499,
-    "CurrentHp": 27740146,
+    "StartTime": 1723143954043,
+    "CurrentHp": 3213347,
     "MaxHp": 27740146,
-    "Players": 8
+    "Players": 86
   },
   {
     "Id": 10621,

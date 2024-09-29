@@ -1,0 +1,744 @@
+{
+  "21": {
+    "WorldId": 21,
+    "WorldName": "Ravana",
+    "WorldInternalName": "Ravana",
+    "DatacenterName": "Materia",
+    "LastMaintenanceTime": 0
+  },
+  "22": {
+    "WorldId": 22,
+    "WorldName": "Bismarck",
+    "WorldInternalName": "Bismarck",
+    "DatacenterName": "Materia",
+    "LastMaintenanceTime": 0
+  },
+  "23": {
+    "WorldId": 23,
+    "WorldName": "Asura",
+    "WorldInternalName": "Asura",
+    "DatacenterName": "Mana",
+    "LastMaintenanceTime": 0
+  },
+  "24": {
+    "WorldId": 24,
+    "WorldName": "Belias",
+    "WorldInternalName": "Belias",
+    "DatacenterName": "Mana",
+    "LastMaintenanceTime": 0
+  },
+  "28": {
+    "WorldId": 28,
+    "WorldName": "Pandaemonium",
+    "WorldInternalName": "Pandaemonium",
+    "DatacenterName": "Mana",
+    "LastMaintenanceTime": 0
+  },
+  "29": {
+    "WorldId": 29,
+    "WorldName": "Shinryu",
+    "WorldInternalName": "Shinryu",
+    "DatacenterName": "Mana",
+    "LastMaintenanceTime": 0
+  },
+  "30": {
+    "WorldId": 30,
+    "WorldName": "Unicorn",
+    "WorldInternalName": "Unicorn",
+    "DatacenterName": "Elemental",
+    "LastMaintenanceTime": 0
+  },
+  "31": {
+    "WorldId": 31,
+    "WorldName": "Yojimbo",
+    "WorldInternalName": "Yojimbo",
+    "DatacenterName": "Gaia",
+    "LastMaintenanceTime": 0
+  },
+  "32": {
+    "WorldId": 32,
+    "WorldName": "Zeromus",
+    "WorldInternalName": "Zeromus",
+    "DatacenterName": "Gaia",
+    "LastMaintenanceTime": 0
+  },
+  "33": {
+    "WorldId": 33,
+    "WorldName": "Twintania",
+    "WorldInternalName": "Twintania",
+    "DatacenterName": "Light",
+    "LastMaintenanceTime": 0
+  },
+  "34": {
+    "WorldId": 34,
+    "WorldName": "Brynhildr",
+    "WorldInternalName": "Brynhildr",
+    "DatacenterName": "Crystal",
+    "LastMaintenanceTime": 0
+  },
+  "35": {
+    "WorldId": 35,
+    "WorldName": "Famfrit",
+    "WorldInternalName": "Famfrit",
+    "DatacenterName": "Primal",
+    "LastMaintenanceTime": 0
+  },
+  "36": {
+    "WorldId": 36,
+    "WorldName": "Lich",
+    "WorldInternalName": "Lich",
+    "DatacenterName": "Light",
+    "LastMaintenanceTime": 0
+  },
+  "37": {
+    "WorldId": 37,
+    "WorldName": "Mateus",
+    "WorldInternalName": "Mateus",
+    "DatacenterName": "Crystal",
+    "LastMaintenanceTime": 0
+  },
+  "39": {
+    "WorldId": 39,
+    "WorldName": "Omega",
+    "WorldInternalName": "Omega",
+    "DatacenterName": "Chaos",
+    "LastMaintenanceTime": 0
+  },
+  "40": {
+    "WorldId": 40,
+    "WorldName": "Jenova",
+    "WorldInternalName": "Jenova",
+    "DatacenterName": "Aether",
+    "LastMaintenanceTime": 0
+  },
+  "41": {
+    "WorldId": 41,
+    "WorldName": "Zalera",
+    "WorldInternalName": "Zalera",
+    "DatacenterName": "Crystal",
+    "LastMaintenanceTime": 0
+  },
+  "42": {
+    "WorldId": 42,
+    "WorldName": "Zodiark",
+    "WorldInternalName": "Zodiark",
+    "DatacenterName": "Light",
+    "LastMaintenanceTime": 0
+  },
+  "43": {
+    "WorldId": 43,
+    "WorldName": "Alexander",
+    "WorldInternalName": "Alexander",
+    "DatacenterName": "Gaia",
+    "LastMaintenanceTime": 0
+  },
+  "44": {
+    "WorldId": 44,
+    "WorldName": "Anima",
+    "WorldInternalName": "Anima",
+    "DatacenterName": "Mana",
+    "LastMaintenanceTime": 0
+  },
+  "45": {
+    "WorldId": 45,
+    "WorldName": "Carbuncle",
+    "WorldInternalName": "Carbuncle",
+    "DatacenterName": "Elemental",
+    "LastMaintenanceTime": 0
+  },
+  "46": {
+    "WorldId": 46,
+    "WorldName": "Fenrir",
+    "WorldInternalName": "Fenrir",
+    "DatacenterName": "Gaia",
+    "LastMaintenanceTime": 0
+  },
+  "47": {
+    "WorldId": 47,
+    "WorldName": "Hades",
+    "WorldInternalName": "Hades",
+    "DatacenterName": "Mana",
+    "LastMaintenanceTime": 0
+  },
+  "48": {
+    "WorldId": 48,
+    "WorldName": "Ixion",
+    "WorldInternalName": "Ixion",
+    "DatacenterName": "Mana",
+    "LastMaintenanceTime": 0
+  },
+  "49": {
+    "WorldId": 49,
+    "WorldName": "Kujata",
+    "WorldInternalName": "Kujata",
+    "DatacenterName": "Elemental",
+    "LastMaintenanceTime": 0
+  },
+  "50": {
+    "WorldId": 50,
+    "WorldName": "Typhon",
+    "WorldInternalName": "Typhon",
+    "DatacenterName": "Elemental",
+    "LastMaintenanceTime": 0
+  },
+  "51": {
+    "WorldId": 51,
+    "WorldName": "Ultima",
+    "WorldInternalName": "Ultima",
+    "DatacenterName": "Gaia",
+    "LastMaintenanceTime": 0
+  },
+  "52": {
+    "WorldId": 52,
+    "WorldName": "Valefor",
+    "WorldInternalName": "Valefor",
+    "DatacenterName": "Gaia",
+    "LastMaintenanceTime": 0
+  },
+  "53": {
+    "WorldId": 53,
+    "WorldName": "Exodus",
+    "WorldInternalName": "Exodus",
+    "DatacenterName": "Primal",
+    "LastMaintenanceTime": 0
+  },
+  "54": {
+    "WorldId": 54,
+    "WorldName": "Faerie",
+    "WorldInternalName": "Faerie",
+    "DatacenterName": "Aether",
+    "LastMaintenanceTime": 0
+  },
+  "55": {
+    "WorldId": 55,
+    "WorldName": "Lamia",
+    "WorldInternalName": "Lamia",
+    "DatacenterName": "Primal",
+    "LastMaintenanceTime": 0
+  },
+  "56": {
+    "WorldId": 56,
+    "WorldName": "Phoenix",
+    "WorldInternalName": "Phoenix",
+    "DatacenterName": "Light",
+    "LastMaintenanceTime": 0
+  },
+  "57": {
+    "WorldId": 57,
+    "WorldName": "Siren",
+    "WorldInternalName": "Siren",
+    "DatacenterName": "Aether",
+    "LastMaintenanceTime": 0
+  },
+  "58": {
+    "WorldId": 58,
+    "WorldName": "Garuda",
+    "WorldInternalName": "Garuda",
+    "DatacenterName": "Elemental",
+    "LastMaintenanceTime": 0
+  },
+  "59": {
+    "WorldId": 59,
+    "WorldName": "Ifrit",
+    "WorldInternalName": "Ifrit",
+    "DatacenterName": "Gaia",
+    "LastMaintenanceTime": 0
+  },
+  "60": {
+    "WorldId": 60,
+    "WorldName": "Ramuh",
+    "WorldInternalName": "Ramuh",
+    "DatacenterName": "Elemental",
+    "LastMaintenanceTime": 0
+  },
+  "61": {
+    "WorldId": 61,
+    "WorldName": "Titan",
+    "WorldInternalName": "Titan",
+    "DatacenterName": "Mana",
+    "LastMaintenanceTime": 0
+  },
+  "62": {
+    "WorldId": 62,
+    "WorldName": "Diabolos",
+    "WorldInternalName": "Diabolos",
+    "DatacenterName": "Crystal",
+    "LastMaintenanceTime": 0
+  },
+  "63": {
+    "WorldId": 63,
+    "WorldName": "Gilgamesh",
+    "WorldInternalName": "Gilgamesh",
+    "DatacenterName": "Aether",
+    "LastMaintenanceTime": 0
+  },
+  "64": {
+    "WorldId": 64,
+    "WorldName": "Leviathan",
+    "WorldInternalName": "Leviathan",
+    "DatacenterName": "Primal",
+    "LastMaintenanceTime": 0
+  },
+  "65": {
+    "WorldId": 65,
+    "WorldName": "Midgardsormr",
+    "WorldInternalName": "Midgardsormr",
+    "DatacenterName": "Aether",
+    "LastMaintenanceTime": 0
+  },
+  "66": {
+    "WorldId": 66,
+    "WorldName": "Odin",
+    "WorldInternalName": "Odin",
+    "DatacenterName": "Light",
+    "LastMaintenanceTime": 0
+  },
+  "67": {
+    "WorldId": 67,
+    "WorldName": "Shiva",
+    "WorldInternalName": "Shiva",
+    "DatacenterName": "Light",
+    "LastMaintenanceTime": 0
+  },
+  "68": {
+    "WorldId": 68,
+    "WorldName": "Atomos",
+    "WorldInternalName": "Atomos",
+    "DatacenterName": "Elemental",
+    "LastMaintenanceTime": 0
+  },
+  "69": {
+    "WorldId": 69,
+    "WorldName": "Bahamut",
+    "WorldInternalName": "Bahamut",
+    "DatacenterName": "Gaia",
+    "LastMaintenanceTime": 0
+  },
+  "70": {
+    "WorldId": 70,
+    "WorldName": "Chocobo",
+    "WorldInternalName": "Chocobo",
+    "DatacenterName": "Mana",
+    "LastMaintenanceTime": 0
+  },
+  "71": {
+    "WorldId": 71,
+    "WorldName": "Moogle",
+    "WorldInternalName": "Moogle",
+    "DatacenterName": "Chaos",
+    "LastMaintenanceTime": 0
+  },
+  "72": {
+    "WorldId": 72,
+    "WorldName": "Tonberry",
+    "WorldInternalName": "Tonberry",
+    "DatacenterName": "Elemental",
+    "LastMaintenanceTime": 0
+  },
+  "73": {
+    "WorldId": 73,
+    "WorldName": "Adamantoise",
+    "WorldInternalName": "Adamantoise",
+    "DatacenterName": "Aether",
+    "LastMaintenanceTime": 0
+  },
+  "74": {
+    "WorldId": 74,
+    "WorldName": "Coeurl",
+    "WorldInternalName": "Coeurl",
+    "DatacenterName": "Crystal",
+    "LastMaintenanceTime": 0
+  },
+  "75": {
+    "WorldId": 75,
+    "WorldName": "Malboro",
+    "WorldInternalName": "Malboro",
+    "DatacenterName": "Crystal",
+    "LastMaintenanceTime": 0
+  },
+  "76": {
+    "WorldId": 76,
+    "WorldName": "Tiamat",
+    "WorldInternalName": "Tiamat",
+    "DatacenterName": "Gaia",
+    "LastMaintenanceTime": 0
+  },
+  "77": {
+    "WorldId": 77,
+    "WorldName": "Ultros",
+    "WorldInternalName": "Ultros",
+    "DatacenterName": "Primal",
+    "LastMaintenanceTime": 0
+  },
+  "78": {
+    "WorldId": 78,
+    "WorldName": "Behemoth",
+    "WorldInternalName": "Behemoth",
+    "DatacenterName": "Primal",
+    "LastMaintenanceTime": 0
+  },
+  "79": {
+    "WorldId": 79,
+    "WorldName": "Cactuar",
+    "WorldInternalName": "Cactuar",
+    "DatacenterName": "Aether",
+    "LastMaintenanceTime": 0
+  },
+  "80": {
+    "WorldId": 80,
+    "WorldName": "Cerberus",
+    "WorldInternalName": "Cerberus",
+    "DatacenterName": "Chaos",
+    "LastMaintenanceTime": 0
+  },
+  "81": {
+    "WorldId": 81,
+    "WorldName": "Goblin",
+    "WorldInternalName": "Goblin",
+    "DatacenterName": "Crystal",
+    "LastMaintenanceTime": 0
+  },
+  "82": {
+    "WorldId": 82,
+    "WorldName": "Mandragora",
+    "WorldInternalName": "Mandragora",
+    "DatacenterName": "Mana",
+    "LastMaintenanceTime": 0
+  },
+  "83": {
+    "WorldId": 83,
+    "WorldName": "Louisoix",
+    "WorldInternalName": "Louisoix",
+    "DatacenterName": "Chaos",
+    "LastMaintenanceTime": 0
+  },
+  "85": {
+    "WorldId": 85,
+    "WorldName": "Spriggan",
+    "WorldInternalName": "Spriggan",
+    "DatacenterName": "Chaos",
+    "LastMaintenanceTime": 0
+  },
+  "86": {
+    "WorldId": 86,
+    "WorldName": "Sephirot",
+    "WorldInternalName": "Sephirot",
+    "DatacenterName": "Materia",
+    "LastMaintenanceTime": 0
+  },
+  "87": {
+    "WorldId": 87,
+    "WorldName": "Sophia",
+    "WorldInternalName": "Sophia",
+    "DatacenterName": "Materia",
+    "LastMaintenanceTime": 0
+  },
+  "88": {
+    "WorldId": 88,
+    "WorldName": "Zurvan",
+    "WorldInternalName": "Zurvan",
+    "DatacenterName": "Materia",
+    "LastMaintenanceTime": 0
+  },
+  "90": {
+    "WorldId": 90,
+    "WorldName": "Aegis",
+    "WorldInternalName": "Aegis",
+    "DatacenterName": "Elemental",
+    "LastMaintenanceTime": 0
+  },
+  "91": {
+    "WorldId": 91,
+    "WorldName": "Balmung",
+    "WorldInternalName": "Balmung",
+    "DatacenterName": "Crystal",
+    "LastMaintenanceTime": 0
+  },
+  "92": {
+    "WorldId": 92,
+    "WorldName": "Durandal",
+    "WorldInternalName": "Durandal",
+    "DatacenterName": "Gaia",
+    "LastMaintenanceTime": 0
+  },
+  "93": {
+    "WorldId": 93,
+    "WorldName": "Excalibur",
+    "WorldInternalName": "Excalibur",
+    "DatacenterName": "Primal",
+    "LastMaintenanceTime": 0
+  },
+  "94": {
+    "WorldId": 94,
+    "WorldName": "Gungnir",
+    "WorldInternalName": "Gungnir",
+    "DatacenterName": "Elemental",
+    "LastMaintenanceTime": 0
+  },
+  "95": {
+    "WorldId": 95,
+    "WorldName": "Hyperion",
+    "WorldInternalName": "Hyperion",
+    "DatacenterName": "Primal",
+    "LastMaintenanceTime": 0
+  },
+  "96": {
+    "WorldId": 96,
+    "WorldName": "Masamune",
+    "WorldInternalName": "Masamune",
+    "DatacenterName": "Mana",
+    "LastMaintenanceTime": 0
+  },
+  "97": {
+    "WorldId": 97,
+    "WorldName": "Ragnarok",
+    "WorldInternalName": "Ragnarok",
+    "DatacenterName": "Chaos",
+    "LastMaintenanceTime": 0
+  },
+  "98": {
+    "WorldId": 98,
+    "WorldName": "Ridill",
+    "WorldInternalName": "Ridill",
+    "DatacenterName": "Gaia",
+    "LastMaintenanceTime": 0
+  },
+  "99": {
+    "WorldId": 99,
+    "WorldName": "Sargatanas",
+    "WorldInternalName": "Sargatanas",
+    "DatacenterName": "Aether",
+    "LastMaintenanceTime": 0
+  },
+  "1042": {
+    "WorldId": 1042,
+    "WorldName": "拉诺西亚",
+    "WorldInternalName": "LaNuoXiYa",
+    "DatacenterName": "陆行鸟",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1043": {
+    "WorldId": 1043,
+    "WorldName": "紫水栈桥",
+    "WorldInternalName": "ZiShuiZhanQiao",
+    "DatacenterName": "猫小胖",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1044": {
+    "WorldId": 1044,
+    "WorldName": "幻影群岛",
+    "WorldInternalName": "HuanYingQunDao",
+    "DatacenterName": "陆行鸟",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1045": {
+    "WorldId": 1045,
+    "WorldName": "摩杜纳",
+    "WorldInternalName": "MoDuNa",
+    "DatacenterName": "猫小胖",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1048": {
+    "WorldId": 1048,
+    "WorldName": "太阳海岸",
+    "WorldInternalName": "TaiyangHaiAn",
+    "DatacenterName": "豆豆柴",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1050": {
+    "WorldId": 1050,
+    "WorldName": "银泪湖",
+    "WorldInternalName": "YinLeiHu",
+    "DatacenterName": "豆豆柴",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1056": {
+    "WorldId": 1056,
+    "WorldName": "红茶川",
+    "WorldInternalName": "HongChaChuan",
+    "DatacenterName": "豆豆柴",
+    "LastMaintenanceTime": 1727617817878
+  },
+  "1057": {
+    "WorldId": 1057,
+    "WorldName": "伊修加德",
+    "WorldInternalName": "YiXiuJiaDe",
+    "DatacenterName": "豆豆柴",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1060": {
+    "WorldId": 1060,
+    "WorldName": "萌芽池",
+    "WorldInternalName": "MengYaChi",
+    "DatacenterName": "陆行鸟",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1074": {
+    "WorldId": 1074,
+    "WorldName": "水晶塔",
+    "WorldInternalName": "ShuiJingTa",
+    "DatacenterName": "豆豆柴",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1076": {
+    "WorldId": 1076,
+    "WorldName": "白金幻象",
+    "WorldInternalName": "BaiJinHuanXiang",
+    "DatacenterName": "莫古力",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1081": {
+    "WorldId": 1081,
+    "WorldName": "神意之地",
+    "WorldInternalName": "ShenYiZhiDi",
+    "DatacenterName": "陆行鸟",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1106": {
+    "WorldId": 1106,
+    "WorldName": "静语庄园",
+    "WorldInternalName": "JingYuZhuangYuan",
+    "DatacenterName": "猫小胖",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1113": {
+    "WorldId": 1113,
+    "WorldName": "旅人栈桥",
+    "WorldInternalName": "LvRenZhanQiao",
+    "DatacenterName": "莫古力",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1121": {
+    "WorldId": 1121,
+    "WorldName": "拂晓之间",
+    "WorldInternalName": "FuXiaoZhiJian",
+    "DatacenterName": "莫古力",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1166": {
+    "WorldId": 1166,
+    "WorldName": "龙巢神殿",
+    "WorldInternalName": "Longchaoshendian",
+    "DatacenterName": "莫古力",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1167": {
+    "WorldId": 1167,
+    "WorldName": "红玉海",
+    "WorldInternalName": "HongYuHai",
+    "DatacenterName": "陆行鸟",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1169": {
+    "WorldId": 1169,
+    "WorldName": "延夏",
+    "WorldInternalName": "YanXia",
+    "DatacenterName": "猫小胖",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1170": {
+    "WorldId": 1170,
+    "WorldName": "潮风亭",
+    "WorldInternalName": "ChaoFengTing",
+    "DatacenterName": "莫古力",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1171": {
+    "WorldId": 1171,
+    "WorldName": "神拳痕",
+    "WorldInternalName": "ShenQuanHen",
+    "DatacenterName": "莫古力",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1172": {
+    "WorldId": 1172,
+    "WorldName": "白银乡",
+    "WorldInternalName": "BaiYinXiang",
+    "DatacenterName": "莫古力",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1173": {
+    "WorldId": 1173,
+    "WorldName": "宇宙和音",
+    "WorldInternalName": "YuZhouHeYin",
+    "DatacenterName": "陆行鸟",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1174": {
+    "WorldId": 1174,
+    "WorldName": "沃仙曦染",
+    "WorldInternalName": "WoXianXiRan",
+    "DatacenterName": "陆行鸟",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1175": {
+    "WorldId": 1175,
+    "WorldName": "晨曦王座",
+    "WorldInternalName": "ChenXiWangZuo",
+    "DatacenterName": "陆行鸟",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1176": {
+    "WorldId": 1176,
+    "WorldName": "梦羽宝境",
+    "WorldInternalName": "MengYuBaoJing",
+    "DatacenterName": "莫古力",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1177": {
+    "WorldId": 1177,
+    "WorldName": "海猫茶屋",
+    "WorldInternalName": "HaiMaoChaWu",
+    "DatacenterName": "猫小胖",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1178": {
+    "WorldId": 1178,
+    "WorldName": "柔风海湾",
+    "WorldInternalName": "RouFengHaiWan",
+    "DatacenterName": "猫小胖",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1179": {
+    "WorldId": 1179,
+    "WorldName": "琥珀原",
+    "WorldInternalName": "HuPoYuan",
+    "DatacenterName": "猫小胖",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1180": {
+    "WorldId": 1180,
+    "WorldName": "太阳海岸",
+    "WorldInternalName": "TaiYangHaiAn2",
+    "DatacenterName": "豆豆柴",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1183": {
+    "WorldId": 1183,
+    "WorldName": "银泪湖",
+    "WorldInternalName": "YinLeiHu2",
+    "DatacenterName": "豆豆柴",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1186": {
+    "WorldId": 1186,
+    "WorldName": "伊修加德",
+    "WorldInternalName": "YiXiuJiaDe2",
+    "DatacenterName": "豆豆柴",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1192": {
+    "WorldId": 1192,
+    "WorldName": "水晶塔",
+    "WorldInternalName": "ShuiJingTa2",
+    "DatacenterName": "豆豆柴",
+    "LastMaintenanceTime": 1727617817877
+  },
+  "1201": {
+    "WorldId": 1201,
+    "WorldName": "红茶川",
+    "WorldInternalName": "HongChaChuan2",
+    "DatacenterName": "豆豆柴",
+    "LastMaintenanceTime": 1727617817877
+  }
+}

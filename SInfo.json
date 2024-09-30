@@ -504,7 +504,7 @@
       "first_spawn_cooldown": 180000,
       "pop_cooldown": 475200,
       "first_pop_cooldown": 288000,
-      "info": "1",
+      "info": "带上宠物朱孔雀，踩在刷新点上触发",
       "status": "{}",
       "key": 8653
     }
@@ -596,10 +596,78 @@
   },
   {
     "model": "ffxivbot.monster",
+    "pk": 83,
+    "fields": {
+      "name": "Agrippa the Mighty2",
+      "cn_name": "阿格里帕2",
+      "territory": 29,
+      "rank": "50S",
+      "spawn_cooldown": 216000,
+      "first_spawn_cooldown": 133200,
+      "pop_cooldown": 302400,
+      "first_pop_cooldown": 190800,
+      "info": "开启G3，G4，G5，绿图，星光图的箱子触发",
+      "status": "{}",
+      "key": 2969
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 84,
+    "fields": {
+      "name": "Agrippa the Mighty3",
+      "cn_name": "阿格里帕3",
+      "territory": 29,
+      "rank": "50S",
+      "spawn_cooldown": 216000,
+      "first_spawn_cooldown": 133200,
+      "pop_cooldown": 302400,
+      "first_pop_cooldown": 190800,
+      "info": "开启G3，G4，G5，绿图，星光图的箱子触发",
+      "status": "{}",
+      "key": 2969
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
     "pk": 85,
     "fields": {
       "name": "Ruminator",
       "cn_name": "沉思之物",
+      "territory": 351,
+      "rank": "90S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "击杀100只思考之物 + 100只彷徨之物 + 100只叹息之物",
+      "status": "{}",
+      "key": 10620
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 86,
+    "fields": {
+      "name": "Ruminator2",
+      "cn_name": "沉思之物2",
+      "territory": 351,
+      "rank": "90S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "击杀100只思考之物 + 100只彷徨之物 + 100只叹息之物",
+      "status": "{}",
+      "key": 10620
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 87,
+    "fields": {
+      "name": "Ruminator3",
+      "cn_name": "沉思之物3",
       "territory": 351,
       "rank": "90S",
       "spawn_cooldown": 302400,
@@ -630,10 +698,78 @@
   },
   {
     "model": "ffxivbot.monster",
+    "pk": 89,
+    "fields": {
+      "name": "Armstrong2",
+      "cn_name": "阿姆斯特朗2",
+      "territory": 350,
+      "rank": "90S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "装备修好的帝国盔帽和修好的帝国短袍，在触发点死亡",
+      "status": "{}",
+      "key": 10619
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 90,
+    "fields": {
+      "name": "Armstrong3",
+      "cn_name": "阿姆斯特朗3",
+      "territory": 350,
+      "rank": "90S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "装备修好的帝国盔帽和修好的帝国短袍，在触发点死亡",
+      "status": "{}",
+      "key": 10619
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
     "pk": 91,
     "fields": {
       "name": "Ophioneus",
       "cn_name": "俄菲翁尼厄斯",
+      "territory": 353,
+      "rank": "90S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "在任意地点丢弃5个厄尔庇斯之鸟蛋",
+      "status": "{}",
+      "key": 10621
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 92,
+    "fields": {
+      "name": "Ophioneus2",
+      "cn_name": "俄菲翁尼厄斯2",
+      "territory": 353,
+      "rank": "90S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "在任意地点丢弃5个厄尔庇斯之鸟蛋",
+      "status": "{}",
+      "key": 10621
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 93,
+    "fields": {
+      "name": "Ophioneus3",
+      "cn_name": "俄菲翁尼厄斯3",
       "territory": 353,
       "rank": "90S",
       "spawn_cooldown": 302400,
@@ -660,6 +796,448 @@
       "info": "10人以上一起携带宠物小异亚，在触发点溜达",
       "status": "{}",
       "key": 10622
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 95,
+    "fields": {
+      "name": "Narrow-rift2",
+      "cn_name": "狭缝2",
+      "territory": 352,
+      "rank": "90S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "10人以上一起携带宠物小异亚，在触发点溜达",
+      "status": "{}",
+      "key": 10622
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 96,
+    "fields": {
+      "name": "Narrow-rift3",
+      "cn_name": "狭缝3",
+      "territory": 352,
+      "rank": "90S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "10人以上一起携带宠物小异亚，在触发点溜达",
+      "status": "{}",
+      "key": 10622
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 97,
+    "fields": {
+      "name": "Burfurlur the Canny",
+      "cn_name": "布弗鲁",
+      "territory": 348,
+      "rank": "90S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "白天（ET9:00-ET17:00）使用从89级副本获得的小巨魔宠物在重生点上行走（或飞行）。需要碧空或晴朗。",
+      "status": "{}",
+      "key": 10617
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 98,
+    "fields": {
+      "name": "Burfurlur the Canny2",
+      "cn_name": "布弗鲁2",
+      "territory": 348,
+      "rank": "90S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "白天（ET9:00-ET17:00）使用从89级副本获得的小巨魔宠物在重生点上行走（或飞行）。需要碧空或晴朗。",
+      "status": "{}",
+      "key": 10617
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 99,
+    "fields": {
+      "name": "Burfurlur the Canny3",
+      "cn_name": "布弗鲁3",
+      "territory": 348,
+      "rank": "90S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "白天（ET9:00-ET17:00）使用从89级副本获得的小巨魔宠物在重生点上行走（或飞行）。需要碧空或晴朗。",
+      "status": "{}",
+      "key": 10617
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 100,
+    "fields": {
+      "name": "Sphatika",
+      "cn_name": "颇胝迦",
+      "territory": 349,
+      "rank": "90S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "100阿输陀花，100毕舍遮，100金刚尾",
+      "status": "{}",
+      "key": 10618
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 101,
+    "fields": {
+      "name": "Sphatika2",
+      "cn_name": "颇胝迦2",
+      "territory": 349,
+      "rank": "90S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "100阿输陀花，100毕舍遮，100金刚尾",
+      "status": "{}",
+      "key": 10618
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 102,
+    "fields": {
+      "name": "Sphatika3",
+      "cn_name": "颇胝迦3",
+      "territory": 349,
+      "rank": "90S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "100阿输陀花，100毕舍遮，100金刚尾",
+      "status": "{}",
+      "key": 10618
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 103,
+    "fields": {
+      "name": "Kirlirger the Abhorrent",
+      "cn_name": "厌忌之人 奇里格",
+      "territory": 442,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "新月的（艾欧泽亚日1-4日）ET00:00-ET06:00，天气为薄雾时，走过/飞过触发点",
+      "status": "{}",
+      "key": 13360
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 104,
+    "fields": {
+      "name": "Kirlirger the Abhorrent2",
+      "cn_name": "厌忌之人 奇里格2",
+      "territory": 442,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "新月的（艾欧泽亚日1-4日）ET00:00-ET06:00，天气为薄雾时，走过/飞过触发点",
+      "status": "{}",
+      "key": 13360
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 105,
+    "fields": {
+      "name": "Kirlirger the Abhorrent3",
+      "cn_name": "厌忌之人 奇里格3",
+      "territory": 442,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "新月的（艾欧泽亚日1-4日）ET00:00-ET06:00，天气为薄雾时，走过/飞过触发点",
+      "status": "{}",
+      "key": 13360
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 106,
+    "fields": {
+      "name": "Ihnuxokiy",
+      "cn_name": "伊努索奇",
+      "territory": 443,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "带上宠物蓝闪蝶，走过或飞过刷新点触发",
+      "status": "{}",
+      "key": 13444
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 107,
+    "fields": {
+      "name": "Ihnuxokiy2",
+      "cn_name": "伊努索奇2",
+      "territory": 443,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "带上宠物蓝闪蝶，走过或飞过刷新点触发",
+      "status": "{}",
+      "key": 13444
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 108,
+    "fields": {
+      "name": "Ihnuxokiy3",
+      "cn_name": "伊努索奇3",
+      "territory": 443,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "带上宠物蓝闪蝶，走过或飞过刷新点触发",
+      "status": "{}",
+      "key": 13444
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 109,
+    "fields": {
+      "name": "Neyoozoteel",
+      "cn_name": "内尤佐缇",
+      "territory": 444,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "从背包里一次性舍弃堆叠为50个或以上的鱼粉",
+      "status": "{}",
+      "key": 12754
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 110,
+    "fields": {
+      "name": "Neyoozoteel2",
+      "cn_name": "内尤佐缇2",
+      "territory": 444,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "从背包里一次性舍弃堆叠为50个或以上的鱼粉",
+      "status": "{}",
+      "key": 12754
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 111,
+    "fields": {
+      "name": "Neyoozoteel3",
+      "cn_name": "内尤佐缇3",
+      "territory": 444,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "从背包里一次性舍弃堆叠为50个或以上的鱼粉",
+      "status": "{}",
+      "key": 12754
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 112,
+    "fields": {
+      "name": "Sansheya",
+      "cn_name": "山谢亚",
+      "territory": 445,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "完成恶魔的火种——饮火魔（夏劳尼荒野 (X: 14, Y: 23.5)触发）",
+      "status": "{}",
+      "key": 13399
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 113,
+    "fields": {
+      "name": "Sansheya2",
+      "cn_name": "山谢亚2",
+      "territory": 445,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "完成恶魔的火种——饮火魔（夏劳尼荒野 (X: 14, Y: 23.5)触发）",
+      "status": "{}",
+      "key": 13399
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 114,
+    "fields": {
+      "name": "Sansheya3",
+      "cn_name": "山谢亚3",
+      "territory": 445,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "完成恶魔的火种——饮火魔（夏劳尼荒野 (X: 14, Y: 23.5)触发）",
+      "status": "{}",
+      "key": 13399
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 115,
+    "fields": {
+      "name": "Atticus the Primogenitor",
+      "cn_name": "先驱勇士 阿提卡斯",
+      "territory": 446,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "使用职业烹调师制作高品质的犎牛牛排（99级配方）触发",
+      "status": "{}",
+      "key": 13156
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 116,
+    "fields": {
+      "name": "Atticus the Primogenitor2",
+      "cn_name": "先驱勇士 阿提卡斯2",
+      "territory": 446,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "使用职业烹调师制作高品质的犎牛牛排（99级配方）触发",
+      "status": "{}",
+      "key": 13156
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 117,
+    "fields": {
+      "name": "Atticus the Primogenitor3",
+      "cn_name": "先驱勇士 阿提卡斯3",
+      "territory": 446,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "使用职业烹调师制作高品质的犎牛牛排（99级配方）触发",
+      "status": "{}",
+      "key": 13156
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 118,
+    "fields": {
+      "name": "The Forecaster",
+      "cn_name": "天气预报机器人",
+      "territory": 447,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "在刷新点附近使用青魔法师的技能——狂风暴雪",
+      "status": "{}",
+      "key": 13437
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 119,
+    "fields": {
+      "name": "The Forecaster2",
+      "cn_name": "天气预报机器人2",
+      "territory": 447,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "在刷新点附近使用青魔法师的技能——狂风暴雪",
+      "status": "{}",
+      "key": 13437
+    }
+  },
+  {
+    "model": "ffxivbot.monster",
+    "pk": 120,
+    "fields": {
+      "name": "The Forecaster3",
+      "cn_name": "天气预报机器人3",
+      "territory": 447,
+      "rank": "100S",
+      "spawn_cooldown": 302400,
+      "first_spawn_cooldown": 180000,
+      "pop_cooldown": 475200,
+      "first_pop_cooldown": 288000,
+      "info": "在刷新点附近使用青魔法师的技能——狂风暴雪",
+      "status": "{}",
+      "key": 13437
     }
   }
 ]

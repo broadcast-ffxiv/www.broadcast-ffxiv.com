@@ -42,10 +42,8 @@
         "Garuda",
         "Gungnir",
         "Kujata",
-        "Ramuh",
         "Tonberry",
-        "Typhon",
-        "Unicorn"
+        "Typhon"
     ],
     "Gaia": [
         "Alexander",
@@ -55,23 +53,27 @@
         "Ifrit",
         "Ridill",
         "Tiamat",
-        "Ultima",
-        "Valefor",
-        "Yojimbo",
-        "Zeromus"
+        "Ultima"
     ],
     "Mana": [
         "Anima",
         "Asura",
-        "Belias",
         "Chocobo",
         "Hades",
         "Ixion",
-        "Mandragora",
         "Masamune",
         "Pandaemonium",
-        "Shinryu",
         "Titan"
+    ],
+    "Meteor": [
+        "Belias",
+        "Mandragora",
+        "Ramuh",
+        "Shinryu",
+        "Unicorn",
+        "Valefor",
+        "Yojimbo",
+        "Zeromus"
     ],
     "Aether": [
         "Adamantoise",
@@ -83,16 +85,6 @@
         "Sargatanas",
         "Siren"
     ],
-    "Primal": [
-        "Behemoth",
-        "Excalibur",
-        "Exodus",
-        "Famfrit",
-        "Hyperion",
-        "Lamia",
-        "Leviathan",
-        "Ultros"
-    ],
     "Crystal": [
         "Balmung",
         "Brynhildr",
@@ -103,18 +95,42 @@
         "Mateus",
         "Zalera"
     ],
+    "Dynamis": [
+        "Cuchulainn",
+        "Golem",
+        "Halicarnassus",
+        "Kraken",
+        "Maduin",
+        "Marilith",
+        "Rafflesia",
+        "Seraph"
+    ],
+    "Primal": [
+        "Behemoth",
+        "Excalibur",
+        "Exodus",
+        "Famfrit",
+        "Hyperion",
+        "Lamia",
+        "Leviathan",
+        "Ultros"
+    ],
     "Chaos": [
         "Cerberus",
         "Louisoix",
         "Moogle",
         "Omega",
+        "Phantom",
         "Ragnarok",
+        "Sagittarius",
         "Spriggan"
     ],
     "Light": [
+        "Alpha",
         "Lich",
         "Odin",
         "Phoenix",
+        "Raiden",
         "Shiva",
         "Twintania",
         "Zodiark"
